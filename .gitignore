@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+# CSV files exported while using the tool (the examples/ folder is kept)
+/*.csv
+bounce.png
+sweep.png
+_shot.ipynb

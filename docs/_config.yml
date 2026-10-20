@@ -1,0 +1,6 @@
+title: Basketball Drop-Impact Simulator
+description: Floor force, contact time and energy conversion for a dropped basketball (v1.2.0)
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  math_engine: mathjax

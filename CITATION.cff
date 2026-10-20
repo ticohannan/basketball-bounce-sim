@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Basketball Drop-Impact Simulator"
+version: 1.2.0
+date-released: 2026-10-20
+abstract: >-
+  Interactive Jupyter tool that models the floor contact force, contact duration and
+  energy conversion when an inflated basketball is dropped (or thrown up or down) onto a
+  rigid floor, using an adiabatic gas-spring, thin-shell stiffness and Hunt-Crossley
+  damping calibrated to the FIBA rebound test.
+authors:
+  - family-names: "Hannan"
+    given-names: "Tico"
+license: BSD-3-Clause
+repository-code: "https://github.com/ticohannan/basketball-bounce-sim"
+url: "https://ticohannan.github.io/basketball-bounce-sim/"
+keywords:
+  - basketball
+  - impact mechanics
+  - coefficient of restitution
+  - contact time
+  - education
