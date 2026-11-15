@@ -489,8 +489,3 @@ envelope in plots (e) and (f).
   5. Update the version and date in `CITATION.cff`.
   6. Commit, then tag `vX.Y.Z`.
 
-## 13. Development note
-
-The code and documentation were developed with the assistance of an AI assistant (Anthropic
-Claude), under the direction and review of the author, Tico Hannan. The equations, data and references
-were checked against the cited sources listed in `REFERENCES.md`.

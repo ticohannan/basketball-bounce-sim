@@ -59,11 +59,9 @@ The example CSV output is in
 ## Documentation
 
 * [Design document](DESIGN.md): equations, assumptions, verification and validation
-* [References](REFERENCES.md): ASME format, with verified DOIs, ISBNs and URLs
+* [References](REFERENCES.md): ASME format, with DOIs, ISBNs and URLs
 * [User guide plan](USER_GUIDE_PLAN.md)
 * [Changelog](https://github.com/ticohannan/basketball-bounce-sim/blob/main/CHANGELOG.md)
 * [Source code](https://github.com/ticohannan/basketball-bounce-sim). BSD-3-Clause
   license, © 2026 Tico Hannan.
 
-*Developed with the assistance of an AI assistant (Anthropic Claude), under the direction
-and review of the author.*

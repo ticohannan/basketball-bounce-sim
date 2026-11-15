@@ -23,7 +23,6 @@ uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Changed
 - `params` accepts the optional key `v_init_m_s`. It defaults to 0, so existing scripts
   behave exactly as before.
-- Removed the verification log from `docs/REFERENCES.md`.
 
 ## [1.1.0] — 2026-10-20
 
@@ -40,7 +39,7 @@ uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Pressure in kPa added to the CSV metadata. The range-sweep CSV now includes heights in
   metres.
 - Verification test suite (`tests/test_physics.py`, 13 tests).
-- Documentation: design document, ASME-format references with verified DOIs, user guide
+- Documentation: design document, ASME-format references with DOIs, user guide
   plan, GitHub Pages site with screenshots.
 - `CITATION.cff`, `requirements.txt`, and `tools/build_notebook.py` (generates the notebook
   from the `.py` file).

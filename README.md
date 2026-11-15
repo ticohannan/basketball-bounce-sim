@@ -156,12 +156,6 @@ The project follows [Semantic Versioning](https://semver.org/). The current vers
 See [CITATION.cff](CITATION.cff). GitHub shows a "Cite this repository" button once the
 repository is public.
 
-## Acknowledgement of AI assistance
-
-This software and its documentation were developed with the assistance of an AI assistant
-(Anthropic Claude), under the direction and review of the author. The physics, data and
-references were checked against the cited sources.
-
 ## License
 
 BSD 3-Clause License. Copyright (c) 2026, Tico Hannan. See [LICENSE](LICENSE).
