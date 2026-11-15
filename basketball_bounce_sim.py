@@ -139,9 +139,6 @@
 #  SA07 [6], LFR12 [7], Gent [8], HC75 [9], Cross [10]-[12], ASEE [13],
 #  Pat1 [14], Pat2 [15], drag Cd [16], SciPy [17], RK45 [18], Brent [19].
 #
-#  Developed with the assistance of an AI assistant (Anthropic Claude), under
-#  the direction and review of the author.
-#
 #  MODEL LIMITATIONS (good discussion topics)
 #    * Floor is perfectly rigid. A sprung hardwood floor adds compliance
 #      (longer contact, lower peak force).  See "HOW TO EXTEND" at the bottom.

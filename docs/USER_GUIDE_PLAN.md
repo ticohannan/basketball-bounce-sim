@@ -113,7 +113,7 @@
 
 ## 6. Review and maintenance
 
-* Technical review: author.
+* Technical review: Tico.
 * Usability review: one undergraduate who has never seen the tool completes Sections 2–6
   unaided. Record where they get stuck.
 * Re-check all screenshots and quoted numbers whenever the MINOR or MAJOR version changes.
